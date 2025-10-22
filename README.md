@@ -16,8 +16,9 @@ Librerías necesarias:
 ## CAPTURAS
 <img width="501" height="431" alt="Captura de pantalla 2025-10-22 154242" src="https://github.com/user-attachments/assets/53ae691d-dd5b-4fca-8057-fa347f0ac4bd" />
 
-<img width="501" height="431" alt="Captura de pantalla 2025-10-22 154242" src="https://github.com/user-attachments/assets/461fd0af-94df-43fb-a81d-f1d7885221f7" />
-![Uploading Captura de pantalla 2025-10-22 154242.png…]()
+<img width="748" height="529" alt="Captura de pantalla 2025-10-22 154457" src="https://github.com/user-attachments/assets/3a8099f3-e475-4a0f-9535-7037a3062d88" />
+
+<img width="638" height="554" alt="Captura de pantalla 2025-10-22 154825" src="https://github.com/user-attachments/assets/2acef580-49b4-43b8-a643-ca66d060c307" />
 
 ## BITÁCORA
 Primera semana de Octubre, Interfaz base de Tkinter, se creó la ventana principal y botones.
